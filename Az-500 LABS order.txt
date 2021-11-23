@@ -1,0 +1,21 @@
+Az-500T00A Labs order
+Repository - https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies
+Link to LAB: https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/
+
+Day1
+Hands-on (Lab 04)
+Hands-on (Lab 01, 02, 03)
+Hands-on (Labs 05 or 06)
+
+Day2
+Hands-on (Lab 07 or 08)
+Hands-on (Lab 09)
+
+Day3
+Hands-on (Lab 10)
+Hands-on (Lab 11, Lab 12)
+
+Day4
+Hands-on (Lab 13, Lab 14)
+Hands-on (Lab 15)
+
